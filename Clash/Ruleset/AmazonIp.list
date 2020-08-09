@@ -1,5 +1,5 @@
 # 内容：AmazonIp
-# 数量：737条
+# 数量：738条
 IP-CIDR,3.0.0.0/15,no-resolve
 IP-CIDR,3.5.0.0/18,no-resolve
 IP-CIDR,3.5.128.0/22,no-resolve
@@ -13,7 +13,7 @@ IP-CIDR,3.24.0.0/14,no-resolve
 IP-CIDR,3.32.0.0/16,no-resolve
 IP-CIDR,3.34.0.0/15,no-resolve
 IP-CIDR,3.80.0.0/12,no-resolve
-IP-CIDR,3.96.0.0/15,no-resolve
+IP-CIDR,3.96.0.0/14,no-resolve
 IP-CIDR,3.101.0.0/16,no-resolve
 IP-CIDR,3.104.0.0/14,no-resolve
 IP-CIDR,3.112.0.0/14,no-resolve
@@ -51,6 +51,7 @@ IP-CIDR,13.248.128.0/17,no-resolve
 IP-CIDR,13.249.0.0/16,no-resolve
 IP-CIDR,13.250.0.0/15,no-resolve
 IP-CIDR,15.152.0.0/16,no-resolve
+IP-CIDR,15.156.0.0/15,no-resolve
 IP-CIDR,15.161.0.0/16,no-resolve
 IP-CIDR,15.164.0.0/15,no-resolve
 IP-CIDR,15.177.0.0/18,no-resolve
