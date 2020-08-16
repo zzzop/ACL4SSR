@@ -1,6 +1,6 @@
 #**********************************************************************
-# 08.12
-# 2020年8月12日23:59:52
+# 08.16
+# 2020年8月16日23:51:50
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -7156,8 +7156,6 @@
 (^|\.)vimeo\.com$
 (^|\.)vine\.co$
 (^|\.)vox-cdn\.com$
-(^|\.)wikileaks\.org$
-(^|\.)wikipedia\.org$
 
 # Amazon
 (^|\.)amazon\.co\.jp$
@@ -7530,6 +7528,20 @@
 158.85.224.160/27
 75.126.150.0/16
 69.171.235.0/16
+
+# Wikipedia 维基相关域名
+(^|\.)mediawiki\.org$
+(^|\.)wikibooks\.org$
+(^|\.)wikidata\.org$
+(^|\.)wikileaks\.org$
+(^|\.)wikimedia\.org$
+(^|\.)wikinews\.org$
+(^|\.)wikipedia\.org$
+(^|\.)wikiquote\.org$
+(^|\.)wikisource\.org$
+(^|\.)wikiversity\.org$
+(^|\.)wikivoyage\.org$
+(^|\.)wiktionary\.org$
 
 #飞流直播
 (^|\.)neulion\.com$
