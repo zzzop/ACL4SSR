@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-08-26 21:11:35
-# 数量：2637条
+# 更新：2020-08-28 23:35:28
+# 数量：2639条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -695,6 +695,7 @@ DOMAIN-SUFFIX,de-nis-ner-mi-5.info
 DOMAIN-SUFFIX,debug-vp.webmd.com
 DOMAIN-SUFFIX,deepknow.egoid.me
 DOMAIN-SUFFIX,dejavu.mercadolivre.com.br
+DOMAIN-SUFFIX,deliver.oztam.com.au
 DOMAIN-SUFFIX,deliver.ptgncdn.com
 DOMAIN-SUFFIX,desa.fkapi.net
 DOMAIN-SUFFIX,desb.fkapi.net
@@ -888,6 +889,7 @@ DOMAIN-SUFFIX,evisit.exeter.ac.uk
 DOMAIN-SUFFIX,evnt.iol.it
 DOMAIN-SUFFIX,evt.izooto.com
 DOMAIN-SUFFIX,exd4.destinia.com.au
+DOMAIN-SUFFIX,execution-ci360.rai.it
 DOMAIN-SUFFIX,expbl2ro.xbox.com
 DOMAIN-SUFFIX,expdb2.msn.com
 DOMAIN-SUFFIX,experience.contextly.com
