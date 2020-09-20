@@ -217,6 +217,10 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
 
+  # Dubox
+  - DOMAIN-SUFFIX,dubox.com
+  - DOMAIN-SUFFIX,duboxcdn.com
+
   # Facebook
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fb.com

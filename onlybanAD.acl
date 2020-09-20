@@ -1,6 +1,6 @@
 #**********************************************************************
-# 09.07
-# 2020年9月7日23:29:32
+# 09.20
+# 2020年9月20日11:23:27
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -410,7 +410,7 @@
 (^|\.)(d|migc|migcreport|mis)\.g\.mi\.com$
 (^|\.)(notice|ppurifier)\.game\.xiaomi\.com$
 (^|\.)(r|security)\.browser\.miui\.com$
-(^|\.)adv\.sec.\intl\.miui\.com$
+(^|\.)adv\.sec\.intl\.miui\.com$
 (^|\.)adv\.sec\.miui\.com$
 (^|\.)data\.mistat\.xiaomi\.com$
 (^|\.)tracking\.miui\.com$
@@ -1516,7 +1516,6 @@
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
 (^|\.)cloudcone\.com$
-(^|\.)dubox\.com$
 (^|\.)gameloft\.com$
 (^|\.)inoreader\.com$
 (^|\.)ip138\.com$
@@ -1730,6 +1729,10 @@
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
 (^|\.)discordapp\.net$
+
+# Dubox
+(^|\.)dubox\.com$
+(^|\.)duboxcdn\.com$
 
 # Facebook
 (^|\.)facebook\.com$
