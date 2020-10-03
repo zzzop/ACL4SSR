@@ -186,7 +186,6 @@ payload:
   - DOMAIN-SUFFIX,appc.baidu.com
   - DOMAIN-SUFFIX,as.baidu.cn
   - DOMAIN-SUFFIX,as.baidu.com
-  - DOMAIN-SUFFIX,ashifen.com
   - DOMAIN-SUFFIX,baichuan.baidu.com
   - DOMAIN-SUFFIX,baidu9635.com
   - DOMAIN-SUFFIX,baidustatic.com
@@ -322,7 +321,6 @@ payload:
   - DOMAIN-SUFFIX,sestat.baidu.com
   - DOMAIN-SUFFIX,shadu.baidu.com
   - DOMAIN-SUFFIX,share.baidu.com
-  - DOMAIN-SUFFIX,shifen.com
   - DOMAIN-SUFFIX,snippet.pos.baidu.com
   - DOMAIN-SUFFIX,sobar.baidu.com
   - DOMAIN-SUFFIX,sobartop.baidu.com

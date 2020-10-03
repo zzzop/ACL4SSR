@@ -169,7 +169,6 @@
 (^|\.)ae\.bdstatic\.com$
 (^|\.)antivirus\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
-(^|\.)ashifen\.com$
 (^|\.)baichuan\.baidu\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
@@ -254,7 +253,6 @@
 (^|\.)sestat\.baidu\.com$
 (^|\.)shadu\.baidu\.com$
 (^|\.)share\.baidu\.com$
-(^|\.)shifen\.com$
 (^|\.)snippet\.pos\.baidu\.com$
 (^|\.)sobar\.baidu\.com$
 (^|\.)sobartop\.baidu\.com$
@@ -1936,7 +1934,7 @@
 
 # YYeTs 人人影视
 (^|\.)got001\.com$
-(^|\.)jstucdn\.com$
+(^|\.)p4pfile\.com$
 (^|\.)rrys\.tv$
 (^|\.)rrys2020\.com$
 (^|\.)yyets\.com$
