@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-09-20 11:22:57
-# 数量：283条
+# 更新：2020-10-03 11:41:54
+# 数量：287条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -67,11 +67,14 @@ USER-AGENT,DAZN*
 DOMAIN-KEYWORD,voddazn
 DOMAIN,d151l6v8er5bdm.cloudfront.net
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
+DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,indazn.com
+DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,sentry.io
 
 # Deezer
 USER-AGENT,Deezer*
@@ -321,6 +324,7 @@ DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ipstatp.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
