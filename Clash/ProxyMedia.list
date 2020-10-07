@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-10-03 12:08:27
-# 数量：287条
+# 更新：2020-10-07 21:32:26
+# 数量：288条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -84,8 +84,9 @@ DOMAIN-SUFFIX,dzcdn.net
 # DisneyPlus
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
-DOMAIN,cdn.cdn.unid.go.com
 DOMAIN,cdn.registerdisney.go.com
+DOMAIN,cdn.unid.go.com
+DOMAIN,disney.my.sentry.io
 DOMAIN,global.edge.bamgrid.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,braze.com

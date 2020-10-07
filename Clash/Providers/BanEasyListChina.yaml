@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2020-10-03 11:41:42
-  # 数量：4816条
+  # 更新：2020-10-07 21:32:18
+  # 数量：4822条
 
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,0024aaaa.com
@@ -2906,6 +2906,7 @@ payload:
   - DOMAIN-SUFFIX,mxmrt.com
   - DOMAIN-SUFFIX,mxtailor.com
   - DOMAIN-SUFFIX,myad.toocle.com
+  - DOMAIN-SUFFIX,myams.cn
   - DOMAIN-SUFFIX,mygeneclub.com
   - DOMAIN-SUFFIX,myselfjanitor.com
   - DOMAIN-SUFFIX,mysty.com.cn
@@ -3998,6 +3999,7 @@ payload:
   - DOMAIN-SUFFIX,wbdcrmn.cn
   - DOMAIN-SUFFIX,wbies.com
   - DOMAIN-SUFFIX,wbiev.com
+  - DOMAIN-SUFFIX,wbrong.cn
   - DOMAIN-SUFFIX,wcail.com
   - DOMAIN-SUFFIX,wcjup.com
   - DOMAIN-SUFFIX,wcnmd.top
@@ -4117,6 +4119,7 @@ payload:
   - DOMAIN-SUFFIX,wvver.com
   - DOMAIN-SUFFIX,wwlolbs.com
   - DOMAIN-SUFFIX,www-sina-cn-com.com
+  - DOMAIN-SUFFIX,www1.wxnmh.com
   - DOMAIN-SUFFIX,wxbdfm.com
   - DOMAIN-SUFFIX,wxhdwy.com
   - DOMAIN-SUFFIX,wxktv.cn
@@ -4255,6 +4258,7 @@ payload:
   - DOMAIN-SUFFIX,xn--2qu96gouvko1a.com
   - DOMAIN-SUFFIX,xn--2qux23c9ziyrq.icu
   - DOMAIN-SUFFIX,xn--2qux23c9ziyrq.ink
+  - DOMAIN-SUFFIX,xn--2qux23c9ziyrq.video
   - DOMAIN-SUFFIX,xn--2qux23confgml.club
   - DOMAIN-SUFFIX,xn--2quz8f01ak10c.shop
   - DOMAIN-SUFFIX,xn--2ssq0ktxigkq.cc
@@ -4685,6 +4689,7 @@ payload:
   - DOMAIN-SUFFIX,zpxw.vip
   - DOMAIN-SUFFIX,zpyfsj.cn
   - DOMAIN-SUFFIX,zqsbnfh.top
+  - DOMAIN-SUFFIX,zqscript.com
   - DOMAIN-SUFFIX,zqwlkj.cn
   - DOMAIN-SUFFIX,zqworks.com
   - DOMAIN-SUFFIX,zreder.com
@@ -4807,6 +4812,7 @@ payload:
   - IP-CIDR,163.197.136.33/32,no-resolve
   - IP-CIDR,164.155.185.254/32,no-resolve
   - IP-CIDR,172.81.246.180/32,no-resolve
+  - IP-CIDR,172.120.35.94/32,no-resolve
   - IP-CIDR,174.139.53.195/32,no-resolve
   - IP-CIDR,180.76.171.28/32,no-resolve
   - IP-CIDR,182.92.81.104/32,no-resolve

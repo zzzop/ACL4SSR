@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-10-03 11:41:48
-# 数量：2678条
+# 更新：2020-10-07 21:32:23
+# 数量：2682条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -654,6 +654,7 @@ DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,csp-collector.appspot.com
 DOMAIN-SUFFIX,csp.archant.co.uk
 DOMAIN-SUFFIX,csr.onet.pl
+DOMAIN-SUFFIX,cstats.sankakucomplex.com
 DOMAIN-SUFFIX,ct.needlive.com
 DOMAIN-SUFFIX,ct.pinterest.com
 DOMAIN-SUFFIX,ct5m.citadium.com
@@ -685,6 +686,7 @@ DOMAIN-SUFFIX,data.minute.ly
 DOMAIN-SUFFIX,data.queryly.com
 DOMAIN-SUFFIX,data.reactandshare.com
 DOMAIN-SUFFIX,data.studybreakmedia.com
+DOMAIN-SUFFIX,data.woosmap.com
 DOMAIN-SUFFIX,data.younow.com
 DOMAIN-SUFFIX,datadog-service.mvfglobal.com
 DOMAIN-SUFFIX,dbex-tracker-v2.driveback.ru
@@ -811,6 +813,7 @@ DOMAIN-SUFFIX,encoderfarmstatsnew.servicebus.windows.net
 DOMAIN-SUFFIX,encoding.ovh
 DOMAIN-SUFFIX,enfieldindependent-gb.enfieldindependent.co.uk
 DOMAIN-SUFFIX,engage-cdn.schibsted.media
+DOMAIN-SUFFIX,engagefront.meteomedia.com
 DOMAIN-SUFFIX,engagefront.theweathernetwork.com
 DOMAIN-SUFFIX,enlightenment.secureshoppingbasket.com
 DOMAIN-SUFFIX,ens.luzernerzeitung.ch
@@ -863,6 +866,7 @@ DOMAIN-SUFFIX,eventlog.jackpot.de
 DOMAIN-SUFFIX,eventlogger.soundcloud.com
 DOMAIN-SUFFIX,events.air.tv
 DOMAIN-SUFFIX,events.apester.com
+DOMAIN-SUFFIX,events.attentivemobile.com
 DOMAIN-SUFFIX,events.avantisvideo.com
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,events.chaordicsystems.com
@@ -1114,7 +1118,6 @@ DOMAIN-SUFFIX,irqs.ioam.de
 DOMAIN-SUFFIX,is.base.de
 DOMAIN-SUFFIX,itracking.fccinteractive.com
 DOMAIN-SUFFIX,javascriptcounter.appspot.com
-DOMAIN-SUFFIX,jcm.jd.com
 DOMAIN-SUFFIX,jelly.mdhv.io
 DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
 DOMAIN-SUFFIX,k.rueducommerce.fr
@@ -1196,6 +1199,7 @@ DOMAIN-SUFFIX,log.optimizely.com
 DOMAIN-SUFFIX,log.outbrain.com
 DOMAIN-SUFFIX,log.outbrainimg.com
 DOMAIN-SUFFIX,log.pinterest.com
+DOMAIN-SUFFIX,log.popin.cc
 DOMAIN-SUFFIX,log.prezi.com
 DOMAIN-SUFFIX,log.ren.tv
 DOMAIN-SUFFIX,log.seekda.com
