@@ -5650,7 +5650,6 @@
 .a.union.mi.com reject
 .resolver.gslb.mi-idc.com reject
 .resolver.msg.xiaomi.net reject
-.tracking.miui.com reject
 
 # Moji
 .ad.api.moji.com reject

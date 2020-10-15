@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-10-07 21:32:23
-# 数量：2682条
+# 更新：2020-10-15 22:09:59
+# 数量：2686条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -574,7 +574,6 @@ DOMAIN-SUFFIX,contadores.miarroba.com
 DOMAIN-SUFFIX,contadores.miarroba.es
 DOMAIN-SUFFIX,contents-tracking.beop.io
 DOMAIN-SUFFIX,conversions.genieventures.co.uk
-DOMAIN-SUFFIX,convsgmp.taboola.com
 DOMAIN-SUFFIX,cookies.livepartners.com
 DOMAIN-SUFFIX,cookies.reedbusiness.nl
 DOMAIN-SUFFIX,cookietracker.cloudapp.net
@@ -912,6 +911,7 @@ DOMAIN-SUFFIX,felitb.rightinthebox.com
 DOMAIN-SUFFIX,filament-stats.herokuapp.com
 DOMAIN-SUFFIX,filmoljupci.com
 DOMAIN-SUFFIX,fimg-resp.seznam.cz
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
 DOMAIN-SUFFIX,fkrkkmxsqeb5bj9r.s3.amazonaws.com
 DOMAIN-SUFFIX,flashstats.libsyn.com
@@ -955,6 +955,7 @@ DOMAIN-SUFFIX,g3565518030.co
 DOMAIN-SUFFIX,g3763602365.co
 DOMAIN-SUFFIX,g3961686700.co
 DOMAIN-SUFFIX,g4159771035.co
+DOMAIN-SUFFIX,g4357855370.co
 DOMAIN-SUFFIX,g4p.redtram.com
 DOMAIN-SUFFIX,ga-beacon.appspot.com
 DOMAIN-SUFFIX,ga.canoe.ca
@@ -1139,7 +1140,6 @@ DOMAIN-SUFFIX,l.ooyala.com
 DOMAIN-SUFFIX,l.player.ooyala.com
 DOMAIN-SUFFIX,l.popin.cc
 DOMAIN-SUFFIX,l.sharethis.com
-DOMAIN-SUFFIX,la-sync.taboola.com
 DOMAIN-SUFFIX,laas.americanexpress.com
 DOMAIN-SUFFIX,lancashiretelegraph-gb.lancashiretelegraph.co.uk
 DOMAIN-SUFFIX,laurel.macrovision.com
@@ -1255,6 +1255,7 @@ DOMAIN-SUFFIX,ludlowadvertiser-gb.ludlowadvertiser.co.uk
 DOMAIN-SUFFIX,lunametrics.wpengine.netdna-cdn.com
 DOMAIN-SUFFIX,m.lolvsdota.cn
 DOMAIN-SUFFIX,m.trb.com
+DOMAIN-SUFFIX,ma.redhat.com
 DOMAIN-SUFFIX,ma.register.it
 DOMAIN-SUFFIX,magnify360-cdn.s3.amazonaws.com
 DOMAIN-SUFFIX,maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
@@ -1406,7 +1407,6 @@ DOMAIN-SUFFIX,oops.redditmedia.com
 DOMAIN-SUFFIX,open.delivery.net
 DOMAIN-SUFFIX,open.mkt1397.com
 DOMAIN-SUFFIX,ophan.theguardian.com
-DOMAIN-SUFFIX,opps.taboola.com
 DOMAIN-SUFFIX,optimize-stats.voxmedia.com
 DOMAIN-SUFFIX,orbidder.otto.de
 DOMAIN-SUFFIX,origin-tracking.trulia.com
@@ -1509,6 +1509,7 @@ DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.prosieben.de
 DOMAIN-SUFFIX,pixel.roymorgan.com
 DOMAIN-SUFFIX,pixel.s3xified.com
+DOMAIN-SUFFIX,pixel.safe-installation.com
 DOMAIN-SUFFIX,pixel.solvemedia.com
 DOMAIN-SUFFIX,pixel.spotify.com
 DOMAIN-SUFFIX,pixel.sprinklr.com
@@ -1852,6 +1853,7 @@ DOMAIN-SUFFIX,srt.pch.com
 DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,ssc.api.bbc.com
 DOMAIN-SUFFIX,ssp.hinet.net
+DOMAIN-SUFFIX,ssr.streamrail.net
 DOMAIN-SUFFIX,ssrlot.lotoquebec.com
 DOMAIN-SUFFIX,sstats.mora.jp
 DOMAIN-SUFFIX,sstats.oui.sncf
@@ -2370,6 +2372,7 @@ DOMAIN-SUFFIX,tracker.secretescapes.com
 DOMAIN-SUFFIX,tracker.shopclues.com
 DOMAIN-SUFFIX,tracker.softcube.com
 DOMAIN-SUFFIX,tracker.stileo.it
+DOMAIN-SUFFIX,tracker.thinkermail.com
 DOMAIN-SUFFIX,tracker.thinkindot.com
 DOMAIN-SUFFIX,tracker.timesgroup.com
 DOMAIN-SUFFIX,tracker.tiu.ru
@@ -2528,6 +2531,7 @@ DOMAIN-SUFFIX,ttauri.space.com
 DOMAIN-SUFFIX,ttauri.t3.com
 DOMAIN-SUFFIX,ttauri.tomsguide.com
 DOMAIN-SUFFIX,ttauri.tomshardware.com
+DOMAIN-SUFFIX,ttauri.toptenreviews.com
 DOMAIN-SUFFIX,ttauri.whathifi.com
 DOMAIN-SUFFIX,ttdetect.staticimgfarm.com
 DOMAIN-SUFFIX,tvl8.supdecreation.com
@@ -2539,6 +2543,7 @@ DOMAIN-SUFFIX,u46.pnc.com
 DOMAIN-SUFFIX,u47.pnc.com
 DOMAIN-SUFFIX,ubt.berlingskemedia.net
 DOMAIN-SUFFIX,uestat.video.qiyi.com
+DOMAIN-SUFFIX,units.knotch.it
 DOMAIN-SUFFIX,up.boston.com
 DOMAIN-SUFFIX,up.nytimes.com
 DOMAIN-SUFFIX,upstats.yadro.ru
@@ -2636,7 +2641,6 @@ DOMAIN-SUFFIX,webstats.thesoul-publishing.com
 DOMAIN-SUFFIX,webtracker.apicasystem.com
 DOMAIN-SUFFIX,webts.adac.de
 DOMAIN-SUFFIX,westerntelegraph-gb.westerntelegraph.co.uk
-DOMAIN-SUFFIX,wf.taboola.com
 DOMAIN-SUFFIX,wharfedaleobserver-gb.wharfedaleobserver.co.uk
 DOMAIN-SUFFIX,widget.perfectmarket.com
 DOMAIN-SUFFIX,wiltsglosstandard-gb.wiltsglosstandard.co.uk
