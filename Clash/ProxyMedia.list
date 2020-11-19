@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-11-02 22:23:31
-# 数量：291条
+# 更新：2020-11-19 23:01:32
+# 数量：300条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,sentry.io
 
 # Deezer
@@ -88,17 +89,24 @@ DOMAIN-SUFFIX,dzcdn.net
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
 DOMAIN,cdn.registerdisney.go.com
-DOMAIN,cdn.unid.go.com
-DOMAIN,disney.my.sentry.io
 DOMAIN,global.edge.bamgrid.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,bam.nr-date.net
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,cdn.registerdisney.go.com
+DOMAIN-SUFFIX,cdn.unid.go.com
 DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disney-portal.my.onetrust.com
 DOMAIN-SUFFIX,disney.demdex.net
+DOMAIN-SUFFIX,disney.my.sentry.io
+DOMAIN-SUFFIX,disneyplus.bn5x.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,js-agent.newrelic.com
 
 # EncoreTVB
 USER-AGENT,encoreTVB*
@@ -215,6 +223,7 @@ USER-AGENT,LINE*
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,profile.line-scdn.net
 
 # My5
 USER-AGENT,My5*
