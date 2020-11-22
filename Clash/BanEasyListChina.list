@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-11-19 23:01:24
-# 数量：5034条
+# 更新：2020-11-22 11:18:21
+# 数量：5043条
 
 DOMAIN-SUFFIX,00-gov.cn
 DOMAIN-SUFFIX,0024aaaa.com
@@ -619,6 +619,7 @@ DOMAIN-SUFFIX,ab.cnbanbao.com
 DOMAIN-SUFFIX,abc.douguo.com
 DOMAIN-SUFFIX,abc.hkepc.com
 DOMAIN-SUFFIX,abc.hkepc.net
+DOMAIN-SUFFIX,abcdcfasda.gushiwen.cn
 DOMAIN-SUFFIX,abcj.dooccn.com
 DOMAIN-SUFFIX,abckzo.cn
 DOMAIN-SUFFIX,abds.pingpingw.com
@@ -750,6 +751,7 @@ DOMAIN-SUFFIX,ajaxcdn.org
 DOMAIN-SUFFIX,ajiez.com
 DOMAIN-SUFFIX,ajkdg3.xyz
 DOMAIN-SUFFIX,ajuhd.com
+DOMAIN-SUFFIX,ak0429.com
 DOMAIN-SUFFIX,akrwi.cn
 DOMAIN-SUFFIX,al.newxue.com
 DOMAIN-SUFFIX,ali2a.xyz
@@ -1151,6 +1153,7 @@ DOMAIN-SUFFIX,cdxyb.cn
 DOMAIN-SUFFIX,cdxzcjz.cn
 DOMAIN-SUFFIX,cdyqc.com
 DOMAIN-SUFFIX,cdzimeijia.com
+DOMAIN-SUFFIX,ceai.xyz
 DOMAIN-SUFFIX,cee1.iteye.com
 DOMAIN-SUFFIX,ceiyo.com
 DOMAIN-SUFFIX,cepegas.com
@@ -2436,6 +2439,7 @@ DOMAIN-SUFFIX,jinghuazhijia.com
 DOMAIN-SUFFIX,jinglongtang.cn
 DOMAIN-SUFFIX,jingoulong.cn
 DOMAIN-SUFFIX,jingxiangyalvji.cn
+DOMAIN-SUFFIX,jingyuzuo.top
 DOMAIN-SUFFIX,jinhonghao.cn
 DOMAIN-SUFFIX,jinliaoyang.com
 DOMAIN-SUFFIX,jinlubaojie.cn
@@ -2625,6 +2629,7 @@ DOMAIN-SUFFIX,kfdqwo.top
 DOMAIN-SUFFIX,kfi8.com
 DOMAIN-SUFFIX,kfluoa.com
 DOMAIN-SUFFIX,kfuih.cn
+DOMAIN-SUFFIX,kfyg.xyz
 DOMAIN-SUFFIX,kg962.cn
 DOMAIN-SUFFIX,kgcj00.cn
 DOMAIN-SUFFIX,kgfnhf.cn
@@ -3651,6 +3656,7 @@ DOMAIN-SUFFIX,shuangshiyihightgo.top
 DOMAIN-SUFFIX,shucaihangjia.com
 DOMAIN-SUFFIX,shuccn.com
 DOMAIN-SUFFIX,shunlige.com
+DOMAIN-SUFFIX,shunxinyuancaiwu.cn
 DOMAIN-SUFFIX,shuwuzhan.com
 DOMAIN-SUFFIX,shxinjie.cn
 DOMAIN-SUFFIX,shypqc.com
@@ -4382,6 +4388,7 @@ DOMAIN-SUFFIX,xibei70.com
 DOMAIN-SUFFIX,xidexableact.cn
 DOMAIN-SUFFIX,xieyanmin.com.cn
 DOMAIN-SUFFIX,xihashuale.com
+DOMAIN-SUFFIX,xihuangdushu.com
 DOMAIN-SUFFIX,xilele.com
 DOMAIN-SUFFIX,xindelin.cn
 DOMAIN-SUFFIX,xinghao89.com
@@ -4486,6 +4493,7 @@ DOMAIN-SUFFIX,xne1ocient87zxz.360doc.cn
 DOMAIN-SUFFIX,xnghmc.com
 DOMAIN-SUFFIX,xnjpg.com
 DOMAIN-SUFFIX,xnjzsn.com
+DOMAIN-SUFFIX,xnmcmnt.cn
 DOMAIN-SUFFIX,xrain.net
 DOMAIN-SUFFIX,xs.houyi.baofeng.net
 DOMAIN-SUFFIX,xsdlq.cn
@@ -4524,6 +4532,7 @@ DOMAIN-SUFFIX,xxlmxsh.com
 DOMAIN-SUFFIX,xxyxmdq.cn
 DOMAIN-SUFFIX,xxyzwtsylw.com
 DOMAIN-SUFFIX,xy98.com.cn
+DOMAIN-SUFFIX,xyad316ea.vip
 DOMAIN-SUFFIX,xyad3hada.com
 DOMAIN-SUFFIX,xyadaa.com
 DOMAIN-SUFFIX,xyaddby.com
@@ -4563,7 +4572,6 @@ DOMAIN-SUFFIX,yaodianzhineng.cn
 DOMAIN-SUFFIX,yaohq.com
 DOMAIN-SUFFIX,yaoquanshumeiyu.com
 DOMAIN-SUFFIX,yaoxiaoli.com
-DOMAIN-SUFFIX,yaoyl.com
 DOMAIN-SUFFIX,yatemy.cn
 DOMAIN-SUFFIX,yauwsd.cn
 DOMAIN-SUFFIX,ybaiu.com
@@ -4975,6 +4983,7 @@ IP-CIDR,61.174.50.211/32,no-resolve
 IP-CIDR,66.212.56.229/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,103.49.209.27/32,no-resolve
+IP-CIDR,103.75.47.19/32,no-resolve
 IP-CIDR,103.249.254.113/32,no-resolve
 IP-CIDR,104.195.62.12/32,no-resolve
 IP-CIDR,104.197.140.120/32,no-resolve
